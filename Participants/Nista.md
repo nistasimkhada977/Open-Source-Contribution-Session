@@ -1,4 +1,4 @@
-**Name** : Nista Simkhda
+**Name** : Nista Simkhada
 
 **Interest** : programming
 
